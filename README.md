@@ -1,18 +1,18 @@
 <p align="center">  
-<img src="https://media.discordapp.net/attachments/813341662545313832/813343404507267092/pokemon_pixel.gif">
+
 </p>
 <p align="center">
-    7teen
+    Soyal
 <p align="center">  
 <img src="https://komarev.com/ghpvc/?username=17teen&color=grey">
 </p>
     <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-4/709827684888215582.png" />
+  <img src="https://discord.c99.nl/widget/theme-4/853115554902573087.png" />
 </p>
 <p align="center">
 Currently learning JavaScript
 <p align="center">
-    <a href="https://discord.gg/4nSYqZ8KAA">Discord Server</a>
+    <a href="https://discord.gg/extop">Discord Server</a>
 
 <details>
   <summary>Extra</summary>
@@ -22,11 +22,6 @@ Currently learning JavaScript
     Socials:
 <p align="center"> 
     ﹒
-    <a href="https://www.youtube.com/channel/UC4PEPbLPaLkiJf4Y-uZ9p9Q">Youtube</a>
-    ﹒
-    <a href="https://steamcommunity.com/id/seven777teen/">Steam</a>
-    ﹒
-    <a href="https://www.instagram.com/iluvlovell/">Instagram</a>
     ﹒
 </p>
 </details>
@@ -36,9 +31,8 @@ Currently learning JavaScript
     Contact Me Through:
 <p align="center"> 
     ﹒
-    <a href="https://discord.com/users/709827684888215582">Discord</a>
+    <a href="https://discord.com/users/853115554902573087">Discord</a>
     ﹒
-    <a href="https://t.me/clairvoyant7teen">Telegram</a>
     ﹒
 <p align="center">
 Best way to reach me is telegram or joining my discord server then DMing me. I don't accept friend requests.
@@ -49,10 +43,6 @@ Best way to reach me is telegram or joining my discord server then DMing me. I d
     <p align="center">
     Support Me If You Wish:
 <p align="center"> 
-    ﹒
-    <a href="https://discord.com/api/oauth2/authorize?client_id=756843873795571863&permissions=134604871&scope=bot">Invite my bot lovell (verified)</a>
-    ﹒
-    <a href="https://www.youtube.com/channel/UCCI1R8tieH6uL9nF0GgiqjQ">Editing Channel</a>
     ﹒
     <a href="https://discord.gg/CCe5cFtsq7">My Main Discord Server</a>
     ﹒
